@@ -1,0 +1,18 @@
+{
+    "target_overrides": {
+      "*": {
+        "target.c_lib": "small",
+        "target.printf_lib": "minimal-printf",
+        "platform.minimal-printf-enable-floating-point": true,
+        "platform.stdio-minimal-console-only": true,
+        "platform.stdio-baud-rate": 9600,
+        "nsapi.default-wifi-security": "WPA_WPA2",
+        "nsapi.default-wifi-ssid": "\"Your SSID\"",
+        "nsapi.default-wifi-password": "\"Your Password\"",
+        "rtos.main-thread-stack-size": 30000
+      },
+       "DISCO_L475VG_IOT01A": {
+          
+        }
+    }
+}
