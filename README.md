@@ -1,7 +1,4 @@
 # ikt_104
-
-Assignments as a part of the IKT_104 subject Spring 2021.
-
 Equipment used during class:  
 LCD: https://no.mouser.com/ProductDetail/426-DFR0554  
 Microcontroller: https://no.mouser.com/ProductDetail/511-B-L475E-IOT01A2  
